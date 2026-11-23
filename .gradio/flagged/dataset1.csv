@@ -1,0 +1,3 @@
+Upload Retinal Fundus Image,Diagnosis Confidence,timestamp
+,"{""label"": null, ""confidences"": null}",2026-11-17 17:07:35.565218
+.gradio\flagged\Upload Retinal Fundus Image\6d5bc33bb8e81de2d765\100_right.jpeg,"{""label"": ""Diabetic Retinopathy"", ""confidences"": [{""label"": ""Diabetic Retinopathy"", ""confidence"": 0.9800700545310974}, {""label"": ""Normal"", ""confidence"": 0.012201833538711071}, {""label"": ""Cataract"", ""confidence"": 0.0044435239396989346}, {""label"": ""Glaucoma"", ""confidence"": 0.0032845097593963146}]}",2026-11-17 17:07:53.793762
