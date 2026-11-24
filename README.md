@@ -19,8 +19,8 @@ An end-to-end deep learning project re-implementing and adapting the transfer le
 | :--- | :--- | :---: | :---: | :---: |
 | **Baseline** | 2-Layer Custom CNN (from scratch) | 41.64% | 1.2552 | 40.85% |
 | **Paper Model** | Frozen MobileNetV2 Feature Extractor | 83.44% | 0.4703 | 83.12% |
-| **Bonus 1** | Data Augmentation (Evaluated across 3 Seeds) | 82.49% ± 1.10% | ~0.4900 | 82.35% |
-| **Bonus 2 (Best)**| **Fine-Tuned MobileNetV2 (`features[17:]`)** | **89.43%** | **0.2988** | **89.39%** |
+| **Improvement 1** | Data Augmentation (Evaluated across 3 Seeds) | 82.49% ± 1.10% | ~0.4900 | 82.35% |
+| **Improvement 2 (Best)**| **Fine-Tuned MobileNetV2 (`features[17:]`)** | **89.43%** | **0.2988** | **89.39%** |
 
 ### Per-Class Test Performance ($N = 634$ Unseen Images)
 | Diagnostic Class | Precision | Recall | F1-Score | Support |
